@@ -1,1 +1,1 @@
-# Emdedded-Operating-Systems-Assignment-1
+# Emdedded-Systems-Assignment-1
