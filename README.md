@@ -1,4 +1,4 @@
-# Emdedded-Systems-Assignment-1
+# Embedded-Systems-Assignment-1
 Να διαμορφωθεί το παράδειγμα prod-cons.c ώστε
 
 Η FIFO ουρά να κρατά στοιχεία με τύπο
